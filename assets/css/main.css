@@ -2060,13 +2060,13 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-			body.is-preload #header footer {
+			/* body.is-preload #header footer {
 				-moz-transform: translateY(1em);
 				-webkit-transform: translateY(1em);
 				-ms-transform: translateY(1em);
 				transform: translateY(1em);
 				opacity: 0;
-			}
+			} */
 
 /* Banner */
 
